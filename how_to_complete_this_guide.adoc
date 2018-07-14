@@ -2,7 +2,7 @@ ifndef::initial[:initial: /initial]
 ifndef::complete[:complete: /complete]
 
 如何学习完成该指南
---------------------------
+------------------
 和大多数link:/guides[起步指南]一样，你既可以从头开始一步步按照章节完成练习，也可以跳过你熟悉的章节。不管哪种方式，最终保证程序可正常运行。
 
 如果**从头开始**，请移步<<scratch>>.
