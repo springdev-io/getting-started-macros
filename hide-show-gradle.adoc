@@ -1,10 +1,10 @@
 [[reveal-gradle]]
 [.reveal-gradle]
-== Build with Gradle
+== 通过Gradle构建
 
 [[scratch]]
 [.use-gradle]
-== Build with Gradle
+== 通过Gradle构建
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/build_system_intro.adoc[]
 
